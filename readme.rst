@@ -1,8 +1,6 @@
-
-*******************
-CI UTS PCS API 
-*******************
-Nama : Faishalbahy Ahmad Fathuni
-NIM  : 20.12.1690
-
-
+===============================
+UTS PCS API 
+===============================
+Nama : Mayrico Ale Krisdiansyah
+NIM  : 20.12.1719
+===============================
